@@ -1,2 +1,2 @@
-# Fronted-UI
-This is my first fronted UI project using HTML and CSS.
+# This is my first fronted project using html and css
+
